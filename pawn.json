@@ -1,0 +1,18 @@
+{
+  "user": "Hreesang",
+  "repo": "samp-pawnplus-command",
+  "tag": "1.0.0",
+  "entry": "test.pwn",
+  "output": "gamemodes/test.amx",
+  "dev_dependencies": [
+    "Zeex/samp-plugin-crashdetect:v4.21",
+    "IS4Code/PawnPlus:v1.4.3",
+    "pawn-lang/YSI-Includes:v5.10.0006",
+    "ScavengeSurvive/test-boilerplate#3c569e0e4293fc1d46286146cb9ee4bb5273fd10",
+    "Y-Less/sscanf:v2.13.8"
+  ],
+  "runtime": {
+    "version": "0.3.DL",
+    "port": 7777
+  }
+}
